@@ -1,15 +1,15 @@
 # Reto 5#
 
 # Actividad 1 #
-![actividad1](actividad%201.png)
+![actividad1](imagenes/actividad%201.png)
 # Actividad 2 #
-![actividad2](actividad2.png)
+![actividad2](imagenes/actividad2.png)
 # Actividad 3 #
-![actividad3](actividad3.png)
+![actividad3](imagenes/actividad3.png)
 # Actividad 4 #
-![actividad4](actividad4.png)
+![actividad4](imagenes/actividad4.png)
 # Actividad 5 #
-![actividad5](actividad5.png)
+![actividad5](imagenes/actividad5.png)
 
 # ¿Qué es pip en python? #
 * `pip` es el sistema de gestión de paquetes oficial de Python. Sirve para instalar, actualizar o eliminar bibliotecas desde el         repositorio oficial llamado PyPI (Python Package Index).
